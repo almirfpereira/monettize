@@ -1,16 +1,4 @@
- /*
-	Indus by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
-/* ------------------------------------------------------------------------------
- This is jquery module for main page
- ------------------------------------------------------------------------------ */
-
- /* Global constants */
-
- /*global jQuery */
  jQuery(function ($) {
   'use strict';
 
